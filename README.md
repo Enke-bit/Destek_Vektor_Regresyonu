@@ -1,0 +1,4 @@
+- Destek vektörü çalışmasını kısa bir örnek üzerinden anlatığım bir çalışma.
+- Bu çalışmada model kurma ve modeli tunned etme işlemlerini yaptığım bir çalışma
+- Bu çalışmanı teorik çalışması için aşağıdaki link üzeirnden inceleyebilirsiniz. İyi çalışmalar.
+- https://medium.com/@ibrahimpuskullu44/destek-vekt%C3%B6r-regresyonu-308b063e1e3a
